@@ -9,9 +9,10 @@ class Program
         //cau_01 ();
         // cau_02();
         //cau_03();
-          cau_04();
+         // cau_04();
         //cau_08();
          // cau_09();
+         cau_10();
     }
     static void cau_01()
      {int a;
@@ -61,6 +62,18 @@ class Program
       S = canh*canh;
      Console.WriteLine("Dien tich hinh vuong: "+ S);
     }
+    static void cau_10()
+{
+  int days, years, weeks, songay;
+  Console.WriteLine ("nhap vao so ngay");
+  songay = Convert.ToInt32(Console.ReadLine());
+  years = songay/365;
+  weeks = (songay%365)/7;
+  days = (songay%365)%7;
+  Console.WriteLine ("years:" + years);
+  Console.WriteLine ("weeks:" + weeks);
+  Console.WriteLine ("days:" + days);
 
+}
 }
 

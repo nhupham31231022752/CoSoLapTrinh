@@ -12,3 +12,4 @@ D:\Cosolaptrinh\baitap1\obj\Debug\net8.0\refint\baitap1.dll
 D:\Cosolaptrinh\baitap1\obj\Debug\net8.0\baitap1.pdb
 D:\Cosolaptrinh\baitap1\obj\Debug\net8.0\baitap1.genruntimeconfig.cache
 D:\Cosolaptrinh\baitap1\obj\Debug\net8.0\ref\baitap1.dll
+D:\Cosolaptrinh\baitap1\obj\Debug\net8.0\baitap1.sourcelink.json
