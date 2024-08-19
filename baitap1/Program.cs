@@ -10,9 +10,10 @@ class Program
         // cau_02();
         //cau_03();
          // cau_04();
+         cau_06();
         //cau_08();
          // cau_09();
-         cau_10();
+         // cau_10();
     }
     static void cau_01()
      {int a;
@@ -73,6 +74,14 @@ class Program
   Console.WriteLine ("years:" + years);
   Console.WriteLine ("weeks:" + weeks);
   Console.WriteLine ("days:" + days);
+
+}
+static void cau_06()
+{
+ Console.WriteLine("sizeof(int): "+ sizeof(int)) ;
+ Console.WriteLine("sizeof(float):" + sizeof(float));
+ Console.WriteLine("sizeof(double):" + sizeof(double));
+ Console.WriteLine("sizeof(bool):" + sizeof(bool));
 
 }
 }
