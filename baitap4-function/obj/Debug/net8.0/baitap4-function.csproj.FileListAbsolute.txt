@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\baitap4-function\bin\Debug\net8.0\baitap4-function.exe
+D:\Cosolaptrinh\baitap4-function\bin\Debug\net8.0\baitap4-function.deps.json
+D:\Cosolaptrinh\baitap4-function\bin\Debug\net8.0\baitap4-function.runtimeconfig.json
+D:\Cosolaptrinh\baitap4-function\bin\Debug\net8.0\baitap4-function.dll
+D:\Cosolaptrinh\baitap4-function\bin\Debug\net8.0\baitap4-function.pdb
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.AssemblyInfo.cs
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.sourcelink.json
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.dll
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\refint\baitap4-function.dll
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.pdb
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\baitap4-function.genruntimeconfig.cache
+D:\Cosolaptrinh\baitap4-function\obj\Debug\net8.0\ref\baitap4-function.dll
