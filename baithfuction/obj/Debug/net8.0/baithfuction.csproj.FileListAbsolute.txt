@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\baithfuction\bin\Debug\net8.0\baithfuction.exe
+D:\Cosolaptrinh\baithfuction\bin\Debug\net8.0\baithfuction.deps.json
+D:\Cosolaptrinh\baithfuction\bin\Debug\net8.0\baithfuction.runtimeconfig.json
+D:\Cosolaptrinh\baithfuction\bin\Debug\net8.0\baithfuction.dll
+D:\Cosolaptrinh\baithfuction\bin\Debug\net8.0\baithfuction.pdb
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.AssemblyInfo.cs
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.sourcelink.json
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.dll
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\refint\baithfuction.dll
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.pdb
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\baithfuction.genruntimeconfig.cache
+D:\Cosolaptrinh\baithfuction\obj\Debug\net8.0\ref\baithfuction.dll
