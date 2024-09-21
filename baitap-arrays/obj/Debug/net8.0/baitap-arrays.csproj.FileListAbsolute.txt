@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\baitap-arrays\bin\Debug\net8.0\baitap-arrays.exe
+D:\Cosolaptrinh\baitap-arrays\bin\Debug\net8.0\baitap-arrays.deps.json
+D:\Cosolaptrinh\baitap-arrays\bin\Debug\net8.0\baitap-arrays.runtimeconfig.json
+D:\Cosolaptrinh\baitap-arrays\bin\Debug\net8.0\baitap-arrays.dll
+D:\Cosolaptrinh\baitap-arrays\bin\Debug\net8.0\baitap-arrays.pdb
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.AssemblyInfo.cs
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.sourcelink.json
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.dll
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\refint\baitap-arrays.dll
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.pdb
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\baitap-arrays.genruntimeconfig.cache
+D:\Cosolaptrinh\baitap-arrays\obj\Debug\net8.0\ref\baitap-arrays.dll
