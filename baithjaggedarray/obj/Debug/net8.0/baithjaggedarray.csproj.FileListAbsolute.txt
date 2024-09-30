@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\baithjaggedarray\bin\Debug\net8.0\baithjaggedarray.exe
+D:\Cosolaptrinh\baithjaggedarray\bin\Debug\net8.0\baithjaggedarray.deps.json
+D:\Cosolaptrinh\baithjaggedarray\bin\Debug\net8.0\baithjaggedarray.runtimeconfig.json
+D:\Cosolaptrinh\baithjaggedarray\bin\Debug\net8.0\baithjaggedarray.dll
+D:\Cosolaptrinh\baithjaggedarray\bin\Debug\net8.0\baithjaggedarray.pdb
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.AssemblyInfo.cs
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.sourcelink.json
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.dll
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\refint\baithjaggedarray.dll
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.pdb
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\baithjaggedarray.genruntimeconfig.cache
+D:\Cosolaptrinh\baithjaggedarray\obj\Debug\net8.0\ref\baithjaggedarray.dll
